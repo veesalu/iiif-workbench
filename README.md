@@ -1,2 +1,3 @@
-# iiif-training-workbench
-IIIF Training Workbench
+# IIIF Workbench
+
+A place to try out all things IIIF.
