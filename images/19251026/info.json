@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 53,
+    "height" : 55
+  }, {
+    "width" : 105,
+    "height" : 110
+  }, {
+    "width" : 209,
+    "height" : 219
+  }, {
+    "width" : 418,
+    "height" : 437
+  }, {
+    "width" : 835,
+    "height" : 873
+  }, {
+    "width" : 1670,
+    "height" : 1746
+  } ],
+  "profile" : "level0",
+  "width" : 1670,
+  "id" : "https://veesalu.github.io/iiif-workbench/images/19251026",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1746
+}
