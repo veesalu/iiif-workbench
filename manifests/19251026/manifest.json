@@ -7,6 +7,19 @@
             "Lennutamismanööwer ja plaanid. (Juhatab Prantsusmaalt tulnud kolonel Reek.)"
         ]
     },
+    "metadata": [
+        {
+            "label": { 
+                "en": ["Author"],
+                "et": ["Autor"]
+            },
+            "value": {
+                "en": ["Unknown"],
+                "et": ["Teadmata"]
+            }
+        },
+    ]
+    "navDate": "1925-10-26T00:00:00Z",
     "items": [
         {
             "id": "https://veesalu.github.io/iiif-workbench/images/19251026/canvas/",
