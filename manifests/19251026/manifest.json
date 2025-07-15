@@ -1,0 +1,93 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://veesalu.github.io/iiif-workbench/manifests/19251026/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Lennutamismanööwer ja plaanid. (Juhatab Prantsusmaalt tulnud kolonel Reek.)"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://veesalu.github.io/iiif-workbench/images/19251026/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Lennutamismanööwer ja plaanid. (Juhatab Prantsusmaalt tulnud kolonel Reek.)"
+                ]
+            },
+            "height": 1746,
+            "width": 1670,
+            "items": [
+                {
+                    "id": "https://veesalu.github.io/iiif-workbench/images/19251026/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://veesalu.github.io/iiif-workbench/images/19251026/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://veesalu.github.io/iiif-workbench/images/19251026/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 53,
+                                                "height": 55
+                                            },
+                                            {
+                                                "width": 105,
+                                                "height": 110
+                                            },
+                                            {
+                                                "width": 209,
+                                                "height": 219
+                                            },
+                                            {
+                                                "width": 418,
+                                                "height": 437
+                                            },
+                                            {
+                                                "width": 835,
+                                                "height": 873
+                                            },
+                                            {
+                                                "width": 1670,
+                                                "height": 1746
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 1670,
+                                        "id": "https://veesalu.github.io/iiif-workbench/images/19251026",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 1746
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://veesalu.github.io/iiif-workbench/images/19251026/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
